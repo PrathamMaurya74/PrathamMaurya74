@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrathamMaurya74
 - 👀 I’m interested in coding stuff, especially AI/ML, and Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web development, AI, College Projects, and Hackathons, working as Frontend and Database design 
 - 📫 How to reach me - mail - prathammaurya2006@gmail.com
 - 😄 Pronouns: Male
 - ⚡ Fun fact: Fast typist and good at problem solving
